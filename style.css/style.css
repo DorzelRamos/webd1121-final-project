@@ -1,14 +1,14 @@
+@font-face {
+    font-family: josefin;
+    src: url(../fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
 * {
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: priulen;
-    src: URL('../fonts/priulen');
-}
-
 .container {
-    font-family: priulen;
+    font-family: josefin;
 }
