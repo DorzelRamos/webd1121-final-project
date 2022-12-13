@@ -14,6 +14,7 @@
 }
 #navibar {
     font-family: josefin;
+    color: white;
     font-size: 36px;
     height: 10vh;
     background-color:#2ea669
@@ -23,6 +24,15 @@
     font-size: 30px;
     height:80vh;
     background-color: #e8bd67;
+}
+#box1{
+    width: 30em;
+    height: 45vh;
+    border: 30px black solid;
+    background-color: white;
+}
+h1 {
+    color:#2ea669;
 }
 #footer {
     font-family: concert;
